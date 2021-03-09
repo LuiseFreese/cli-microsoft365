@@ -40,4 +40,4 @@ CLI for Microsoft 365 is an open-source project driven by the [Microsoft 365 Pat
 
 _“Sharing is caring”_
 
-Microsoft 365 Patterns and Practices team
+Microsoft 365 Patterns and Practices team 
